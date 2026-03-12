@@ -1,11 +1,16 @@
 # URL Shortener System
 
-A simple URL shortening service built in Python.
+A simple backend URL shortening service built using Python and Flask.
 
 ## Features
 - Generate short URLs
-- Store original URLs
-- Retrieve original link
+- Redirect to original URLs
+- Lightweight API
+
+## Technologies
+- Python
+- Flask
+- REST API
 
 ## Author
 Mayank Srivastava
